@@ -106,7 +106,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>MERCI JE VIENS DE RECTIFIER LE STATUS !!! I LOVE Y'ALL !D Congratulations</h1>
+    <h1>EB HEN VOIA LE CHANGEMENT TANT ATTENDU FOR YEARS MAN !!! I LOVE Y'ALL !D Congratulations</h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
   </div>
